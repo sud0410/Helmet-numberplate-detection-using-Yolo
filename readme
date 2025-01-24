@@ -4,7 +4,7 @@ This repository contains a project for detecting helmets using the YOLO object d
 
 ## Project Structure
 
-**Dataset : https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate/data**
+Dataset : https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-helmet-number-plate/data
 
 - **`classes.txt`**: Contains the class names used for training (e.g., `helmet`, `no-helmet`).
 - **`coco128.yaml`**: Configuration file defining dataset paths and classes for YOLOv3 training.
