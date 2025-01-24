@@ -94,6 +94,8 @@ Post processed:
 
 ![image alt](https://github.com/sud0410/Helmet-numberplate-detection-using-Yolo/blob/79f889866e60f04047cd45549af84a1597e5ca3f/WhatsApp%20Image%202025-01-24%20at%2017.14.20.jpeg)
 
+ALso kindly check the journal publication if interested:   https://www.ijaresm.com/search?x=0&y=0&keyword2=Sudarsan+S
+
 
 
 
