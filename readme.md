@@ -65,21 +65,6 @@ The `output.mp4` file demonstrates the detection results on a sample input video
 we aims to achieve high accuracy in detecting helmets.
 
 
-
-## Future Improvements
-
-- Enhance the dataset with more diverse examples.
-- Experiment with YOLOv5 or YOLOv8 for improved performance.
-- Deploy the model using Flask or FastAPI for real-time detection.
-
-## Acknowledgements
-
-Used uses the YOLOv3 model and OpenCV's DNN module for object detection. Pretrained weights and configurations were adapted from [ultralytics/yolov3](https://github.com/ultralytics/yolov3).
-
----
-
-Feel free to contribute or suggest improvements via pull requests!
-
 ps: 
 Here is a fun example of famous Kollywood actor driving a bike in a movie:
 used this as Example. I own no copyright to the image or so, If it needed to be taken down kindly mail at {bornwin18@gmail.com}
@@ -96,6 +81,20 @@ Post processed:
 
 ALso kindly check the journal publication if interested:   https://www.ijaresm.com/search?x=0&y=0&keyword2=Sudarsan+S
 
+
+## Future Improvements
+
+- Enhance the dataset with more diverse examples.
+- Experiment with YOLOv5 or YOLOv8 for improved performance.
+- Deploy the model using Flask or FastAPI for real-time detection.
+
+## Acknowledgements
+
+Used uses the YOLOv3 model and OpenCV's DNN module for object detection. Pretrained weights and configurations were adapted from [ultralytics/yolov3](https://github.com/ultralytics/yolov3).
+
+---
+
+Feel free to contribute or suggest improvements via pull requests!
 
 
 
