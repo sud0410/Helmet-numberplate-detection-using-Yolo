@@ -12,11 +12,11 @@ Dataset : https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-he
 - **`main.py`**: Main script to perform object detection on input data using YOLOv3.
 - **`training.py`**: Script to train YOLOv3 with the specified dataset and parameters.
 - **`4class.py`**: Script specifically for working with a 4-class model setup.
-- **`yolo-weights/`**: Directory containing pre trained or custom-trained YOLO weights.
+- **`yolo-weights/`**: Directory containing pre trained or custom-trained YOLO weights (should download from kaggle)
 - **`runs/`**: Directory where YOLO training and detection results are saved (e.g., logs, model checkpoints).
-- **`videos/`**: Contains input video files for detection.
-- **`train/`**: Training dataset folder containing images and corresponding YOLO annotations.
-- **`val/`**: Validation dataset folder containing images and YOLO annotations for model evaluation.
+- **`videos/`**: Contains input video files for detection. (Your own video or refer dataset for other)
+- **`train/`**: Training dataset folder containing images and corresponding YOLO annotations. (should download from kaggle)
+- **`val/`**: Validation dataset folder containing images and YOLO annotations for model evaluation. (should download from kaggle)
 
 
 ## Features
