@@ -12,13 +12,12 @@ Dataset : https://www.kaggle.com/datasets/aneesarom/rider-with-helmet-without-he
 - **`main.py`**: Main script to perform object detection on input data using YOLOv3.
 - **`training.py`**: Script to train YOLOv3 with the specified dataset and parameters.
 - **`4class.py`**: Script specifically for working with a 4-class model setup.
-- **`yolo-weights/`**: Directory containing pretrained or custom-trained YOLO weights.
+- **`yolo-weights/`**: Directory containing pre trained or custom-trained YOLO weights.
 - **`runs/`**: Directory where YOLO training and detection results are saved (e.g., logs, model checkpoints).
 - **`videos/`**: Contains input video files for detection.
 - **`train/`**: Training dataset folder containing images and corresponding YOLO annotations.
 - **`val/`**: Validation dataset folder containing images and YOLO annotations for model evaluation.
-- **`IMG_4118.mp4`**: Example input video for helmet detection.
-- **`output.mp4`**: Output video showing detection results after inference.
+
 
 ## Features
 
@@ -59,11 +58,11 @@ python main.py --source [path to image/video] --weights [path to YOLO weights]
 
 ### Visualization
 
-The `output.mp4` file demonstrates the detection results on a sample input video (`IMG_4118.mp4`).
+The `output.mp4` file demonstrates the detection results on a sample input video.
 
 ## Results
 
-The project aims to achieve high accuracy in detecting helmets. The `runs/` directory contains logs and visualization of the results.
+we aims to achieve high accuracy in detecting helmets.
 
 ## Future Improvements
 
@@ -73,7 +72,7 @@ The project aims to achieve high accuracy in detecting helmets. The `runs/` dire
 
 ## Acknowledgements
 
-This project uses the YOLOv3 model and OpenCV's DNN module for object detection. Pretrained weights and configurations were adapted from [ultralytics/yolov3](https://github.com/ultralytics/yolov3).
+Used uses the YOLOv3 model and OpenCV's DNN module for object detection. Pretrained weights and configurations were adapted from [ultralytics/yolov3](https://github.com/ultralytics/yolov3).
 
 ---
 
