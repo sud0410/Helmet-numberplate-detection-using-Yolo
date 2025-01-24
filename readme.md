@@ -66,18 +66,18 @@ we aims to achieve high accuracy in detecting helmets.
 
 
 ps: 
-Here is a fun example of famous Kollywood actor driving a bike in a movie:
-used this as Example. I own no copyright to the image or so, If it needed to be taken down kindly mail at {bornwin18@gmail.com}
+Here is a fun example of a famous Kollywood actor driving a bike in a movie:
+used this as an Example. I own no copyright to the image or so, If it needs to be taken down kindly mail to {bornwin18@gmail.com}
 Source:
 
-![image alt](https://github.com/sud0410/Helmet-numberplate-detection-using-Yolo/blob/79f889866e60f04047cd45549af84a1597e5ca3f/WhatsApp%20Image%202025-01-24%20at%2017.14.13.jpeg)
+![image alt](https://github.com/sud0410/Helmet-numberplate-detection-using-Yolo/blob/8a22a0a7c3ee8b688960b4917db2f95e99e0d27a/Ip.jpeg)
 
 
 
 
 Post processed:
 
-![image alt](https://github.com/sud0410/Helmet-numberplate-detection-using-Yolo/blob/79f889866e60f04047cd45549af84a1597e5ca3f/WhatsApp%20Image%202025-01-24%20at%2017.14.20.jpeg)
+![image alt](https://github.com/sud0410/Helmet-numberplate-detection-using-Yolo/blob/8a22a0a7c3ee8b688960b4917db2f95e99e0d27a/Op.jpeg)
 
 ALso kindly check the journal publication if interested:   https://www.ijaresm.com/search?x=0&y=0&keyword2=Sudarsan+S
 
