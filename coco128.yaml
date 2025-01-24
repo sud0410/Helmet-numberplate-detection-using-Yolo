@@ -1,0 +1,6 @@
+train: /Users/techfever/Downloads/rt/train/images
+val: /Users/techfever/Downloads/rt/val/images
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]
